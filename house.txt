@@ -2,6 +2,7 @@
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -21,4 +22,24 @@
 			X        x     x
 			X    	 x x   x	
                         X        x     x
+=======
+				
+			
+			       XXXXXXXXXXXX
+			      XXXXXXXXXXXXXX
+			     XXXXXXXXXXXXXXXXX	
+			    XXXXXXXXXXXXXXXXXXXX
+			  XXXXXXXXXXXXXXXXXXXXXXXX	
+			 X			 X
+			X			 X
+			X			 X	
+			X			 X
+			X			 X
+			X			 X	
+			X			 X
+			X			 X
+			X			 X
+			X			 X
+			X			 X
+                        X			 X
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
