@@ -14,11 +14,11 @@
 
 
 
-
-
-
-			X
-			X
-			X		
-                        X
+                                 xxxxxxx 
+                                 x xxx x
+                                 x x x x
+			X        x xxx x
+			X        x     x
+			X    	 x x   x	
+                        X        x     x
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
